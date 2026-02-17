@@ -1,5 +1,4 @@
 # Lab_1_Mellada_6606614797.ipynb
-Spatial analysis of public bus stations in Ubon Ratchathani using GeoPandas and Folium. This project demonstrates buffer creation, spatial join, and impact area calculation with interactive web mapping visualization.
 
 ## 1. บทนำ (Introduction)
 โปรเจกต์นี้เป็นการวิเคราะห์เชิงพื้นที่ (Spatial Analysis) เพื่อประเมินขอบเขตการให้บริการ (Service Area) ของสถานีขนส่งผู้โดยสารภายในจังหวัดอุบลราชธานี โดยใช้เทคนิคการสร้างพื้นที่กันชน (Buffer) ระยะ 5 กิโลเมตร เพื่อศึกษาความครอบคลุมของการเข้าถึงบริการขนส่งสาธารณะในแต่ละพื้นที่สำคัญของจังหวัด
